@@ -12,3 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<div>
+  <a href="https://github.com/katherinykamili">
+    <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=rafaelberini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelberini&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
